@@ -96,5 +96,6 @@ Key parameters can be adjusted directly in the Streamlit sidebar:
 | **Tournament Candidates** | The $N$ value for the Best-of-N selection. | 3 |
 | **Device** | CUDA device ID if a GPU is available. | `None` (auto-detect) |
 
-```
-```
+## License
+
+This project is open-source and available under the MIT License.
